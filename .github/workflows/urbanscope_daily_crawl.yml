@@ -1,4 +1,4 @@
-name: UrbanScope Daily Crawl
+name: Daily Crawl
 
 on:
   schedule:
@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: urbanscope-daily-crawl
+  group: daily-crawl
   cancel-in-progress: true
 
 jobs:
@@ -35,16 +35,16 @@ jobs:
             pip install -r requirements.txt
           fi
 
-      - name: Run UrbanScope crawler (daily)
+      - name: Run crawler (daily)
         env:
           NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
           NCBI_EMAIL: ${{ secrets.NCBI_EMAIL }}
           NCBI_TOOL: urbanscope-srr-harvester
         run: |
-          python3 -m scripts.urbanscope_harvester crawl \
+          python3 -m scripts.harvester crawl \
             --sort date \
             --page-size 300 \
-            --stop-after-new-srr 25 \
+            --stop-after-new-srr 50 \
             --fetch-bioproject \
             --fetch-biosample
 
@@ -55,5 +55,5 @@ jobs:
 
           git add data docs || true
 
-          git commit -m "UrbanScope daily crawl $(date -u +'%Y-%m-%d')" || echo "No changes"
+          git commit -m "Daily crawl $(date -u +'%Y-%m-%d')" || echo "No changes"
           git push

@@ -1,0 +1,3525 @@
+{
+  "generated_utc": "2026-02-18T14:48:04+00:00",
+  "reports": [
+    {
+      "tag": "crawl_000000",
+      "generated_utc": "2026-02-17T23:23:10+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000001",
+      "generated_utc": "2026-02-17T23:26:10+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000002",
+      "generated_utc": "2026-02-17T23:29:08+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000003",
+      "generated_utc": "2026-02-17T23:32:14+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000004",
+      "generated_utc": "2026-02-17T23:35:16+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000005",
+      "generated_utc": "2026-02-17T23:38:14+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000006",
+      "generated_utc": "2026-02-17T23:41:18+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000007",
+      "generated_utc": "2026-02-17T23:44:18+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000008",
+      "generated_utc": "2026-02-17T23:47:18+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000009",
+      "generated_utc": "2026-02-17T23:50:18+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000010",
+      "generated_utc": "2026-02-17T23:53:22+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000011",
+      "generated_utc": "2026-02-17T23:56:20+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000012",
+      "generated_utc": "2026-02-17T23:59:21+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000013",
+      "generated_utc": "2026-02-18T00:02:32+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000014",
+      "generated_utc": "2026-02-18T00:05:10+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000015",
+      "generated_utc": "2026-02-18T00:08:10+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000016",
+      "generated_utc": "2026-02-18T00:11:29+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000017",
+      "generated_utc": "2026-02-18T00:14:30+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000018",
+      "generated_utc": "2026-02-18T00:17:26+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000019",
+      "generated_utc": "2026-02-18T00:20:33+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000020",
+      "generated_utc": "2026-02-18T00:23:24+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000021",
+      "generated_utc": "2026-02-18T00:26:02+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 450,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000022",
+      "generated_utc": "2026-02-18T00:28:25+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 445,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000023",
+      "generated_utc": "2026-02-18T00:30:38+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000024",
+      "generated_utc": "2026-02-18T00:33:23+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000025",
+      "generated_utc": "2026-02-18T00:36:09+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000026",
+      "generated_utc": "2026-02-18T00:38:39+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000027",
+      "generated_utc": "2026-02-18T00:41:30+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000028",
+      "generated_utc": "2026-02-18T00:44:27+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000029",
+      "generated_utc": "2026-02-18T00:47:25+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000030",
+      "generated_utc": "2026-02-18T00:50:19+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000031",
+      "generated_utc": "2026-02-18T00:53:37+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000032",
+      "generated_utc": "2026-02-18T00:56:32+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000033",
+      "generated_utc": "2026-02-18T00:59:33+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000034",
+      "generated_utc": "2026-02-18T01:02:32+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000035",
+      "generated_utc": "2026-02-18T01:04:53+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000036",
+      "generated_utc": "2026-02-18T01:07:02+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000037",
+      "generated_utc": "2026-02-18T01:09:54+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000038",
+      "generated_utc": "2026-02-18T01:12:28+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 246,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000039",
+      "generated_utc": "2026-02-18T01:14:45+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 560,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000040",
+      "generated_utc": "2026-02-18T01:17:41+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000041",
+      "generated_utc": "2026-02-18T01:20:35+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000042",
+      "generated_utc": "2026-02-18T01:23:04+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000043",
+      "generated_utc": "2026-02-18T01:25:33+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000044",
+      "generated_utc": "2026-02-18T01:28:31+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 255,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000045",
+      "generated_utc": "2026-02-18T01:31:01+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 498,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000046",
+      "generated_utc": "2026-02-18T01:33:41+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 339,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000047",
+      "generated_utc": "2026-02-18T01:36:45+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000048",
+      "generated_utc": "2026-02-18T01:39:47+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000049",
+      "generated_utc": "2026-02-18T01:42:49+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000050",
+      "generated_utc": "2026-02-18T01:45:50+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000051",
+      "generated_utc": "2026-02-18T01:48:53+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000052",
+      "generated_utc": "2026-02-18T01:51:57+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000053",
+      "generated_utc": "2026-02-18T01:55:03+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000054",
+      "generated_utc": "2026-02-18T01:57:55+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 344,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000055",
+      "generated_utc": "2026-02-18T02:01:15+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000056",
+      "generated_utc": "2026-02-18T02:04:15+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000057",
+      "generated_utc": "2026-02-18T02:07:11+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000058",
+      "generated_utc": "2026-02-18T02:10:05+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000059",
+      "generated_utc": "2026-02-18T02:13:01+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000060",
+      "generated_utc": "2026-02-18T02:16:01+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000061",
+      "generated_utc": "2026-02-18T02:19:28+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000062",
+      "generated_utc": "2026-02-18T02:22:51+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000063",
+      "generated_utc": "2026-02-18T02:26:02+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000064",
+      "generated_utc": "2026-02-18T02:28:50+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000065",
+      "generated_utc": "2026-02-18T02:31:45+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000066",
+      "generated_utc": "2026-02-18T02:33:53+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000067",
+      "generated_utc": "2026-02-18T02:36:52+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000068",
+      "generated_utc": "2026-02-18T02:39:36+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 283,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000069",
+      "generated_utc": "2026-02-18T02:42:41+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000070",
+      "generated_utc": "2026-02-18T02:45:44+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000071",
+      "generated_utc": "2026-02-18T02:49:08+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000072",
+      "generated_utc": "2026-02-18T02:52:16+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000073",
+      "generated_utc": "2026-02-18T02:55:19+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000074",
+      "generated_utc": "2026-02-18T02:57:51+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000075",
+      "generated_utc": "2026-02-18T03:00:49+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000076",
+      "generated_utc": "2026-02-18T03:03:52+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000077",
+      "generated_utc": "2026-02-18T03:06:50+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000078",
+      "generated_utc": "2026-02-18T03:09:50+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000079",
+      "generated_utc": "2026-02-18T03:12:52+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000080",
+      "generated_utc": "2026-02-18T03:15:45+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000081",
+      "generated_utc": "2026-02-18T03:18:13+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000082",
+      "generated_utc": "2026-02-18T03:20:18+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000083",
+      "generated_utc": "2026-02-18T03:23:39+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000084",
+      "generated_utc": "2026-02-18T03:26:33+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000085",
+      "generated_utc": "2026-02-18T03:29:35+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000086",
+      "generated_utc": "2026-02-18T03:31:28+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000087",
+      "generated_utc": "2026-02-18T03:32:55+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000088",
+      "generated_utc": "2026-02-18T03:34:23+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000089",
+      "generated_utc": "2026-02-18T03:36:51+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000090",
+      "generated_utc": "2026-02-18T03:39:55+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000091",
+      "generated_utc": "2026-02-18T03:42:58+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000092",
+      "generated_utc": "2026-02-18T03:45:53+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000093",
+      "generated_utc": "2026-02-18T03:48:36+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000094",
+      "generated_utc": "2026-02-18T03:51:29+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000095",
+      "generated_utc": "2026-02-18T03:54:30+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000096",
+      "generated_utc": "2026-02-18T03:57:40+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000097",
+      "generated_utc": "2026-02-18T04:00:53+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000098",
+      "generated_utc": "2026-02-18T04:03:56+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000099",
+      "generated_utc": "2026-02-18T04:07:01+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000100",
+      "generated_utc": "2026-02-18T04:09:42+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000101",
+      "generated_utc": "2026-02-18T04:12:49+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000102",
+      "generated_utc": "2026-02-18T04:15:41+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000103",
+      "generated_utc": "2026-02-18T04:17:49+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000104",
+      "generated_utc": "2026-02-18T04:20:51+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000105",
+      "generated_utc": "2026-02-18T04:23:54+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000106",
+      "generated_utc": "2026-02-18T04:26:53+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000107",
+      "generated_utc": "2026-02-18T04:29:49+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000108",
+      "generated_utc": "2026-02-18T04:32:39+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000109",
+      "generated_utc": "2026-02-18T04:35:36+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000110",
+      "generated_utc": "2026-02-18T04:37:58+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000111",
+      "generated_utc": "2026-02-18T04:40:54+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000112",
+      "generated_utc": "2026-02-18T04:43:12+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000113",
+      "generated_utc": "2026-02-18T04:46:17+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000114",
+      "generated_utc": "2026-02-18T04:49:14+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000115",
+      "generated_utc": "2026-02-18T04:52:02+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000116",
+      "generated_utc": "2026-02-18T04:55:01+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000117",
+      "generated_utc": "2026-02-18T04:57:56+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000118",
+      "generated_utc": "2026-02-18T05:01:15+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000119",
+      "generated_utc": "2026-02-18T05:04:19+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000120",
+      "generated_utc": "2026-02-18T05:07:30+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000121",
+      "generated_utc": "2026-02-18T05:10:44+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000122",
+      "generated_utc": "2026-02-18T05:13:52+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000123",
+      "generated_utc": "2026-02-18T05:17:12+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000124",
+      "generated_utc": "2026-02-18T05:20:07+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000125",
+      "generated_utc": "2026-02-18T05:22:47+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000126",
+      "generated_utc": "2026-02-18T05:25:01+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000127",
+      "generated_utc": "2026-02-18T05:28:00+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000128",
+      "generated_utc": "2026-02-18T05:30:53+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000129",
+      "generated_utc": "2026-02-18T05:33:51+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000130",
+      "generated_utc": "2026-02-18T05:36:47+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000131",
+      "generated_utc": "2026-02-18T05:39:43+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000132",
+      "generated_utc": "2026-02-18T05:43:06+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000133",
+      "generated_utc": "2026-02-18T05:46:06+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000134",
+      "generated_utc": "2026-02-18T05:49:03+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000135",
+      "generated_utc": "2026-02-18T05:52:01+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000136",
+      "generated_utc": "2026-02-18T05:55:21+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000137",
+      "generated_utc": "2026-02-18T05:57:46+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000138",
+      "generated_utc": "2026-02-18T06:00:03+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000139",
+      "generated_utc": "2026-02-18T06:03:07+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000140",
+      "generated_utc": "2026-02-18T06:06:03+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000141",
+      "generated_utc": "2026-02-18T06:08:18+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000142",
+      "generated_utc": "2026-02-18T06:10:38+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000143",
+      "generated_utc": "2026-02-18T06:13:38+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000144",
+      "generated_utc": "2026-02-18T06:16:38+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000145",
+      "generated_utc": "2026-02-18T06:19:32+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000146",
+      "generated_utc": "2026-02-18T06:22:27+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000147",
+      "generated_utc": "2026-02-18T06:25:21+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000148",
+      "generated_utc": "2026-02-18T06:28:06+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000149",
+      "generated_utc": "2026-02-18T06:30:50+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000150",
+      "generated_utc": "2026-02-18T06:33:43+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000151",
+      "generated_utc": "2026-02-18T06:36:45+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000152",
+      "generated_utc": "2026-02-18T06:39:28+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000153",
+      "generated_utc": "2026-02-18T06:41:08+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000154",
+      "generated_utc": "2026-02-18T06:43:20+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000155",
+      "generated_utc": "2026-02-18T06:46:08+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000156",
+      "generated_utc": "2026-02-18T06:49:11+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000157",
+      "generated_utc": "2026-02-18T06:52:02+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000158",
+      "generated_utc": "2026-02-18T06:55:00+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000159",
+      "generated_utc": "2026-02-18T06:57:44+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000160",
+      "generated_utc": "2026-02-18T07:00:39+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000161",
+      "generated_utc": "2026-02-18T07:03:35+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000162",
+      "generated_utc": "2026-02-18T07:06:48+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000163",
+      "generated_utc": "2026-02-18T07:10:07+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000164",
+      "generated_utc": "2026-02-18T07:13:23+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000165",
+      "generated_utc": "2026-02-18T07:15:23+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000166",
+      "generated_utc": "2026-02-18T07:17:53+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000167",
+      "generated_utc": "2026-02-18T07:20:38+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000168",
+      "generated_utc": "2026-02-18T07:23:00+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000169",
+      "generated_utc": "2026-02-18T07:25:14+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000170",
+      "generated_utc": "2026-02-18T07:29:07+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000171",
+      "generated_utc": "2026-02-18T07:34:51+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000172",
+      "generated_utc": "2026-02-18T07:37:50+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000173",
+      "generated_utc": "2026-02-18T07:40:57+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000174",
+      "generated_utc": "2026-02-18T07:43:38+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000175",
+      "generated_utc": "2026-02-18T07:46:37+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000176",
+      "generated_utc": "2026-02-18T07:49:15+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000177",
+      "generated_utc": "2026-02-18T07:52:29+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000178",
+      "generated_utc": "2026-02-18T07:55:31+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000179",
+      "generated_utc": "2026-02-18T07:58:45+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000180",
+      "generated_utc": "2026-02-18T08:01:54+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000181",
+      "generated_utc": "2026-02-18T08:05:01+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000182",
+      "generated_utc": "2026-02-18T08:08:07+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000183",
+      "generated_utc": "2026-02-18T08:11:11+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000184",
+      "generated_utc": "2026-02-18T08:14:12+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000185",
+      "generated_utc": "2026-02-18T08:16:49+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000186",
+      "generated_utc": "2026-02-18T08:19:42+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000187",
+      "generated_utc": "2026-02-18T08:22:42+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000188",
+      "generated_utc": "2026-02-18T08:25:35+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000189",
+      "generated_utc": "2026-02-18T08:27:55+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000190",
+      "generated_utc": "2026-02-18T08:30:55+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000191",
+      "generated_utc": "2026-02-18T08:33:58+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000192",
+      "generated_utc": "2026-02-18T08:36:41+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000193",
+      "generated_utc": "2026-02-18T08:39:44+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000194",
+      "generated_utc": "2026-02-18T08:42:47+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000195",
+      "generated_utc": "2026-02-18T08:45:48+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000196",
+      "generated_utc": "2026-02-18T08:49:02+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000197",
+      "generated_utc": "2026-02-18T08:52:02+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000198",
+      "generated_utc": "2026-02-18T08:55:06+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000199",
+      "generated_utc": "2026-02-18T08:58:04+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000200",
+      "generated_utc": "2026-02-18T09:00:59+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000201",
+      "generated_utc": "2026-02-18T09:03:57+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000202",
+      "generated_utc": "2026-02-18T09:06:42+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000203",
+      "generated_utc": "2026-02-18T09:09:36+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000204",
+      "generated_utc": "2026-02-18T09:12:14+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000205",
+      "generated_utc": "2026-02-18T09:14:27+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000206",
+      "generated_utc": "2026-02-18T09:16:33+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000207",
+      "generated_utc": "2026-02-18T09:18:43+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000208",
+      "generated_utc": "2026-02-18T09:20:51+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000209",
+      "generated_utc": "2026-02-18T09:23:33+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000210",
+      "generated_utc": "2026-02-18T09:26:42+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000211",
+      "generated_utc": "2026-02-18T09:29:59+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000212",
+      "generated_utc": "2026-02-18T09:33:16+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000213",
+      "generated_utc": "2026-02-18T09:36:19+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000214",
+      "generated_utc": "2026-02-18T09:39:26+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000215",
+      "generated_utc": "2026-02-18T09:42:35+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000216",
+      "generated_utc": "2026-02-18T09:45:35+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000217",
+      "generated_utc": "2026-02-18T09:48:32+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000218",
+      "generated_utc": "2026-02-18T09:51:47+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000219",
+      "generated_utc": "2026-02-18T09:55:07+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000220",
+      "generated_utc": "2026-02-18T09:58:23+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000221",
+      "generated_utc": "2026-02-18T10:01:07+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000222",
+      "generated_utc": "2026-02-18T10:04:25+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000223",
+      "generated_utc": "2026-02-18T10:07:43+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000224",
+      "generated_utc": "2026-02-18T10:10:58+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000225",
+      "generated_utc": "2026-02-18T10:14:20+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000226",
+      "generated_utc": "2026-02-18T10:17:38+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000227",
+      "generated_utc": "2026-02-18T10:20:42+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000228",
+      "generated_utc": "2026-02-18T10:22:58+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000229",
+      "generated_utc": "2026-02-18T10:25:25+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000230",
+      "generated_utc": "2026-02-18T10:28:42+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000231",
+      "generated_utc": "2026-02-18T10:32:04+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000232",
+      "generated_utc": "2026-02-18T10:35:12+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000233",
+      "generated_utc": "2026-02-18T10:38:23+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000234",
+      "generated_utc": "2026-02-18T10:41:28+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000235",
+      "generated_utc": "2026-02-18T10:43:26+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000236",
+      "generated_utc": "2026-02-18T10:46:15+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000237",
+      "generated_utc": "2026-02-18T10:49:22+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000238",
+      "generated_utc": "2026-02-18T10:52:33+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000239",
+      "generated_utc": "2026-02-18T10:55:36+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000240",
+      "generated_utc": "2026-02-18T10:58:40+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000241",
+      "generated_utc": "2026-02-18T11:01:46+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000242",
+      "generated_utc": "2026-02-18T11:04:44+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000243",
+      "generated_utc": "2026-02-18T11:07:47+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000244",
+      "generated_utc": "2026-02-18T11:10:59+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000245",
+      "generated_utc": "2026-02-18T11:14:10+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000246",
+      "generated_utc": "2026-02-18T11:17:30+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000247",
+      "generated_utc": "2026-02-18T11:20:52+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000248",
+      "generated_utc": "2026-02-18T11:24:11+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000249",
+      "generated_utc": "2026-02-18T11:27:30+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 203,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000250",
+      "generated_utc": "2026-02-18T11:30:48+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000251",
+      "generated_utc": "2026-02-18T11:34:03+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000252",
+      "generated_utc": "2026-02-18T11:37:16+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000253",
+      "generated_utc": "2026-02-18T11:40:32+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000254",
+      "generated_utc": "2026-02-18T11:43:50+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000255",
+      "generated_utc": "2026-02-18T11:47:00+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000256",
+      "generated_utc": "2026-02-18T11:50:15+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000257",
+      "generated_utc": "2026-02-18T11:53:27+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000258",
+      "generated_utc": "2026-02-18T11:56:54+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000259",
+      "generated_utc": "2026-02-18T12:00:21+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000260",
+      "generated_utc": "2026-02-18T12:03:15+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 201,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000261",
+      "generated_utc": "2026-02-18T12:06:47+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 215,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000262",
+      "generated_utc": "2026-02-18T12:09:58+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000263",
+      "generated_utc": "2026-02-18T12:13:06+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000264",
+      "generated_utc": "2026-02-18T12:15:41+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000265",
+      "generated_utc": "2026-02-18T12:18:40+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000266",
+      "generated_utc": "2026-02-18T12:21:53+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 207,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000267",
+      "generated_utc": "2026-02-18T12:24:40+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000268",
+      "generated_utc": "2026-02-18T12:27:43+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000269",
+      "generated_utc": "2026-02-18T12:31:10+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000270",
+      "generated_utc": "2026-02-18T12:34:11+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000271",
+      "generated_utc": "2026-02-18T12:37:13+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000272",
+      "generated_utc": "2026-02-18T12:40:06+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000273",
+      "generated_utc": "2026-02-18T12:43:03+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000274",
+      "generated_utc": "2026-02-18T12:46:01+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000275",
+      "generated_utc": "2026-02-18T12:48:59+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000276",
+      "generated_utc": "2026-02-18T12:51:55+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 199,
+        "srr_emitted": 199,
+        "sra_uids_processed_ok": 199
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000277",
+      "generated_utc": "2026-02-18T12:54:48+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000278",
+      "generated_utc": "2026-02-18T12:57:39+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000279",
+      "generated_utc": "2026-02-18T13:00:32+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000280",
+      "generated_utc": "2026-02-18T13:03:27+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000281",
+      "generated_utc": "2026-02-18T13:06:22+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000282",
+      "generated_utc": "2026-02-18T13:09:17+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000283",
+      "generated_utc": "2026-02-18T13:12:13+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000284",
+      "generated_utc": "2026-02-18T13:15:02+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000285",
+      "generated_utc": "2026-02-18T13:17:54+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000286",
+      "generated_utc": "2026-02-18T13:20:48+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000287",
+      "generated_utc": "2026-02-18T13:23:38+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000288",
+      "generated_utc": "2026-02-18T13:26:30+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000289",
+      "generated_utc": "2026-02-18T13:29:15+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000290",
+      "generated_utc": "2026-02-18T13:32:10+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000291",
+      "generated_utc": "2026-02-18T13:35:12+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000292",
+      "generated_utc": "2026-02-18T13:38:07+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000293",
+      "generated_utc": "2026-02-18T13:41:02+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000294",
+      "generated_utc": "2026-02-18T13:44:00+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000295",
+      "generated_utc": "2026-02-18T13:47:01+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000296",
+      "generated_utc": "2026-02-18T13:49:59+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000297",
+      "generated_utc": "2026-02-18T13:52:55+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 201,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000298",
+      "generated_utc": "2026-02-18T13:55:49+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000299",
+      "generated_utc": "2026-02-18T13:58:58+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000300",
+      "generated_utc": "2026-02-18T14:01:57+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000301",
+      "generated_utc": "2026-02-18T14:04:11+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000302",
+      "generated_utc": "2026-02-18T14:06:22+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000303",
+      "generated_utc": "2026-02-18T14:08:44+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000304",
+      "generated_utc": "2026-02-18T14:10:56+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000305",
+      "generated_utc": "2026-02-18T14:13:16+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000306",
+      "generated_utc": "2026-02-18T14:15:31+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000307",
+      "generated_utc": "2026-02-18T14:17:42+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000308",
+      "generated_utc": "2026-02-18T14:20:03+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000309",
+      "generated_utc": "2026-02-18T14:22:19+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000310",
+      "generated_utc": "2026-02-18T14:24:25+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000311",
+      "generated_utc": "2026-02-18T14:26:33+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000312",
+      "generated_utc": "2026-02-18T14:29:26+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 216,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000313",
+      "generated_utc": "2026-02-18T14:32:32+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 222,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000314",
+      "generated_utc": "2026-02-18T14:35:10+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 203,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000315",
+      "generated_utc": "2026-02-18T14:37:23+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000316",
+      "generated_utc": "2026-02-18T14:39:39+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000317",
+      "generated_utc": "2026-02-18T14:43:06+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 200,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000318",
+      "generated_utc": "2026-02-18T14:45:36+00:00",
+      "counters": {
+        "uids_input": 200,
+        "uids_new": 200,
+        "srr_emitted": 264,
+        "sra_uids_processed_ok": 200
+      },
+      "debug_files": {}
+    },
+    {
+      "tag": "crawl_000319",
+      "generated_utc": "2026-02-18T14:48:04+00:00",
+      "counters": {
+        "uids_input": 169,
+        "uids_new": 169,
+        "srr_emitted": 172,
+        "sra_uids_processed_ok": 169
+      },
+      "debug_files": {}
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+DEFAULT_QUERY = (
+  '('
+    # -----------------------------------
+    # 1) REQUIRED: cold / cryophile context
+    # -----------------------------------
+    '('
+      'cryophile OR cryophil* OR '
+      'psychrophile OR psychrophil* OR '
+      '"cold-adapted" OR "cold adapted" OR '
+      'permafrost OR '
+      'glacier OR glacial OR '
+      '"ice core" OR '
+      '"sea ice" OR '
+      'Arctic OR Antarctic OR '
+      'tundra OR '
+      '"subzero" OR '
+      '"freeze-thaw" OR '
+      '"low temperature"'
+    ') '
+    'AND '
+
+    # ------------------------------------------------
+    # 2) REQUIRED: sequencing type limited to WGS/16S/ITS
+    # ------------------------------------------------
+    '('
+      # WGS / shotgun
+      '"whole genome sequencing" OR WGS OR '
+      '"whole genome shotgun" OR '
+      '"shotgun metagenom*" OR '
+      '"shotgun sequencing" OR '
+      'metagenom* OR '
+
+      # 16S
+      '"16S" OR "16S rRNA" OR "16s rrna gene" OR '
+      '"V4 region" OR "V3-V4" OR '
+
+      # ITS
+      '"ITS" OR "internal transcribed spacer" OR '
+      '"ITS1" OR "ITS2"'
+    ') '
+    'AND '
+
+    # -----------------------------------
+    # 3) REQUIRED: dataset / archive signal
+    # -----------------------------------
+    '('
+      'dataset OR "data availability" OR '
+      '"sequence read archive" OR SRA OR '
+      '"ENA" OR "European Nucleotide Archive" OR '
+      'BioProject OR BioSample OR '
+      'accession OR '
+      '"metagenomic dataset" OR '
+      '"amplicon dataset"'
+    ') '
+
+    # -------------------------------
+    # 4) STRICT EXCLUSIONS
+    # -------------------------------
+    'NOT '
+    '('
+      # host/clinical & single-cell noise
+      '"single-cell" OR scRNA OR "RNA-seq" OR '
+      'WES OR "whole exome" OR '
+      'tumor OR cancer OR patient OR clinical OR '
+
+      # warm ecology & unrelated environments
+      'thermophil* OR hyperthermophil* OR '
+      'tropical OR '
+      'marine OR ocean OR seawater OR '
+      'river OR lake OR freshwater OR '
+
+      # pure isolate genomics (optional strictness)
+      '"complete genome" OR "finished genome" OR isolate OR strain'
+    ')'
+  ')'
+)

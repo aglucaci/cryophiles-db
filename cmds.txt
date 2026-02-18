@@ -1,0 +1,1 @@
+python -m scripts.urbanscope_harvester crawl --page-size 200 --sort date --fetch-biosample --fetch-bioproject

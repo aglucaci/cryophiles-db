@@ -19668,5 +19668,20 @@
       "bioproject_uid": "1395681",
       "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1395681"
     }
+  },
+  "PRJNA1424682": {
+    "uid": "1424682",
+    "accession": "PRJNA1424682",
+    "title": "Genome sequencing of novel Mesorhizobium species isolated from legume nodules in Arctic and subarctic regions",
+    "description": "This Mesorhizobium strain was isolated from root nodules of a legume plant growing in Arctic and subarctic regions. Genome sequencing was performed to investigate its phylogenetic position, symbiotic genes, and adaptations to cold environments. The strain represents a putative novel species within the genus Mesorhizobium.",
+    "organism": "Mesorhizobium sp. RCAM 04822",
+    "data_type": "Genome sequencing",
+    "submission_date": "2026/02/17 00:00",
+    "last_update": "",
+    "center_name": "All-Russia Research Institute for Agricultural Microbiology",
+    "ncbi": {
+      "bioproject_uid": "1424682",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1424682"
+    }
   }
 }

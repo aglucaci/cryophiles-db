@@ -1,17 +1,10 @@
-# UrbanScope
-
-**UrbanScope** is a fully automated, GitHub-native system for discovering, tracking, and publishing
-**urban metagenomics and metatranscriptomics studies and their associated datasets**.
-
-It continuously scans public biomedical repositories for new urban omics studies, links publications
-to sequencing datasets (PubMed ↔ SRA), enriches records with location and study-type metadata,
-and publishes a live, searchable dashboard and downloadable archives — all at **zero cost**.
+# Cryophiles-db
 
 ---
 
 ## Live Dashboard
 
-https://aglucaci.github.io/urbanscope/
+https://aglucaci.github.io/cryophiles-db/
 
 Includes:
 - latest newly discovered datasets
@@ -21,12 +14,12 @@ Includes:
 
 ---
 
-## What UrbanScope Does
+## What this repo does
 
-UrbanScope automatically:
+Automatically:
 
-- Detects **urban / built-environment / wastewater / air / surface** studies
-- Identifies **metagenomics & metatranscriptomics** datasets
+- Detects studies
+- Identifies datasets
 - Links:
   - **PubMed papers**
   - **SRA datasets**
@@ -131,17 +124,6 @@ All outputs are versioned in Git.
 
 ---
 
-## Cost & Infrastructure
-
-| Component | Provider | Cost |
-|--------|---------|------|
-| Compute | GitHub Actions | Free |
-| Storage | GitHub repo | Free |
-| Hosting | GitHub Pages | Free |
-| APIs | NCBI E-utilities | Free |
-
----
-
 ## Disclaimer
 
 UrbanScope is provided for **research and informational purposes only**.
@@ -153,4 +135,4 @@ or medical advice.
 ## Author
 
 **Alexander G. Lucaci, PhD**  
-Computational Evolutionary Biology • Urban Metagenomics • Genomic Surveillance
+Computational Evolutionary Biology • Urban Microbiome • Genomic Surveillance

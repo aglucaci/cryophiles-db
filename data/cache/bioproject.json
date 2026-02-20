@@ -19683,5 +19683,20 @@
       "bioproject_uid": "1424682",
       "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1424682"
     }
+  },
+  "PRJNA1346112": {
+    "uid": "1346112",
+    "accession": "PRJNA1346112",
+    "title": "Antrim Basin Microbiome",
+    "description": "This data uses 16s, 18s, and ITS primers to understand the composition of various microbial groups across space and depth in the Antrim Basin, Michigan.",
+    "organism": "",
+    "data_type": "Raw sequence reads",
+    "submission_date": "2025/10/16 00:00",
+    "last_update": "",
+    "center_name": "University of Michigan",
+    "ncbi": {
+      "bioproject_uid": "1346112",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1346112"
+    }
   }
 }

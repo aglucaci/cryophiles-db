@@ -19698,5 +19698,20 @@
       "bioproject_uid": "1346112",
       "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1346112"
     }
+  },
+  "PRJNA1426901": {
+    "uid": "1426901",
+    "accession": "PRJNA1426901",
+    "title": "Freeze-thaw specifically regulates microbiome patterns and phosphorus acquisition  strategies in the lake-groundwater interaction zone",
+    "description": "Freeze-thaw regulates phosphorus cycling in lake-groundwater interaction zones ofcold regions, where microbial communities are crucial. However, the spatiotemporaldistribution patterns of phosphorus pools and their driving mechanisms remaininadequately understood. This study showed that Fe-P and Res-Pwere primary contributors to phosphorus dynamics. Pseudomonadota dominated thePCGs-carrying microbial communities in groundwater and sediments, whileActinomycetota predominated in lake water. Freeze-thaw caused opposite trends inchanges in richness and dissimilarity of the PCGs-carrying microbial communities insediments and lake-groundwater. The PCGs-carrying microbial communities in lakegroundwater shifted from stochastic to deterministic processes, whereas those insediments maintained stochastic processes throughout. Spatial heterogeneity andfreeze-thaw jointly regulated phosphorus cycling: DIP and DOP in lake-groundwaterwere driven by genes involved in P-uptake and transport ,while phosphorus release from sediments was regulated by PCGs-carrying microbialcommunities responsible for inorganic P-solubilization and organicP-mineralization. Microbial communities encoding complete phosphorus cyclingpathways and organic P-mineralization were relatively scarce, withPseudomonadota being dominant, accounting for 65.2% and 57.0%, respectively. Thisstudy highlights medium-specific adaptive strategies of microorganisms and PCGsmediated phosphorus cycling mechanisms, providing scientific support for predictingeutrophication risks and managing lake ecosystems in cold regions.",
+    "organism": "",
+    "data_type": "Raw sequence reads",
+    "submission_date": "2026/02/22 00:00",
+    "last_update": "",
+    "center_name": "Jilin University",
+    "ncbi": {
+      "bioproject_uid": "1426901",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1426901"
+    }
   }
 }

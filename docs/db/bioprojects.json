@@ -19713,5 +19713,20 @@
       "bioproject_uid": "1426901",
       "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1426901"
     }
+  },
+  "PRJEB107440": {
+    "uid": "1421424",
+    "accession": "PRJEB107440",
+    "title": "Usnea aurantiacoatra, genomic and transcriptomic data",
+    "description": "This project collects the genomic and transcriptomic data generated for Usnea aurantiacoatra to facilitate genome assembly and annotation as part of the Aquatic Symbiosis Genomics (ASG) Project (https://www.aquaticsymbiosisgenomics.org/) from samples supplied by the ASG What-Makes-a-Lichen Hub (https://www.aquaticsymbiosisgenomics.org/collaborators/what-makes-a-lichen/). The data under this project are made available subject to the Tree of Life Open Data Release Policy (https://www.darwintreeoflife.org/project-resources/).",
+    "organism": "Usnea aurantiacoatra",
+    "data_type": "Other",
+    "submission_date": "2026/02/10 00:00",
+    "last_update": "",
+    "center_name": "WELLCOME SANGER INSTITUTE",
+    "ncbi": {
+      "bioproject_uid": "1421424",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1421424"
+    }
   }
 }

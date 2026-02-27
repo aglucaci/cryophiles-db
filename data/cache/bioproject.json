@@ -19728,5 +19728,20 @@
       "bioproject_uid": "1421424",
       "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1421424"
     }
+  },
+  "PRJEB25652": {
+    "uid": "1428628",
+    "accession": "PRJEB25652",
+    "title": "Stability of microbial core community in low-centered polygons at Samoylov, Siberia",
+    "description": "Our study is a multidisciplinary approach to analyse the stability of the microbial core community in a low-centered permafrost polygon at Samoylov Island, Russia. We systematically studied the influence of the local heterogeneity of the active layer (rim vs center polygon). Geochemical, physical parameters and DNA abundances of the samples have been determined along a depth profile. We applied 16S rRNA gene analysis and checked for correlations to environmental parameters.",
+    "organism": "",
+    "data_type": "Other",
+    "submission_date": "2026/02/26 00:00",
+    "last_update": "",
+    "center_name": "GFZ German Research Centre for Geosciences",
+    "ncbi": {
+      "bioproject_uid": "1428628",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1428628"
+    }
   }
 }

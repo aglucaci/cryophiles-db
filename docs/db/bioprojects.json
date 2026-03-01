@@ -19743,5 +19743,20 @@
       "bioproject_uid": "1428628",
       "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1428628"
     }
+  },
+  "PRJNA1189267": {
+    "uid": "1189267",
+    "accession": "PRJNA1189267",
+    "title": "Snow cover drives the different seasonality of airborne fungi and bacteria",
+    "description": "We investigate the impact of seasonal snow cover on airborne microbial communities in subarctic (deciduous forest in Hokkaido, Japan) and Arctic (tundra in Svalbard, Norway) regions. Utilizing DNA metabarcoding of airborne microbiomes, we analyzed the seasonal variations in eukaryotic (18S rRNA gene) and bacterial (16S rRNA gene) communities.",
+    "organism": "",
+    "data_type": "Raw sequence reads",
+    "submission_date": "2024/11/21 00:00",
+    "last_update": "",
+    "center_name": "Hokkaido University",
+    "ncbi": {
+      "bioproject_uid": "1189267",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1189267"
+    }
   }
 }

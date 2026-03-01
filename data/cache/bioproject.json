@@ -19758,5 +19758,170 @@
       "bioproject_uid": "1189267",
       "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1189267"
     }
+  },
+  "PRJNA1301824": {
+    "uid": "1301824",
+    "accession": "PRJNA1301824",
+    "title": "GS22-107-ROV579-BS2 biofilm",
+    "description": "Microbial mat on top of high temperature sediments at AEGIR hydrothermal vent field",
+    "organism": "biofilm metagenome",
+    "data_type": "Metagenomic assembly",
+    "submission_date": "2025/08/05 00:00",
+    "last_update": "",
+    "center_name": "University of Bergen",
+    "ncbi": {
+      "bioproject_uid": "1301824",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1301824"
+    }
+  },
+  "PRJNA1301820": {
+    "uid": "1301820",
+    "accession": "PRJNA1301820",
+    "title": "GS22-107-ROV579-BS1 biofilm",
+    "description": "Low temperature iron microbial mat between pillow lava at AEGIR hydrothermal vent field",
+    "organism": "biofilm metagenome",
+    "data_type": "Metagenomic assembly",
+    "submission_date": "2025/08/05 00:00",
+    "last_update": "",
+    "center_name": "University of Bergen",
+    "ncbi": {
+      "bioproject_uid": "1301820",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1301820"
+    }
+  },
+  "PRJNA1301812": {
+    "uid": "1301812",
+    "accession": "PRJNA1301812",
+    "title": "Microbial biofilm collected from diffuse flow using a hydrolic biosyringe at AEGIR hydrothermal vent field - GS22-107-ROV569-BS2",
+    "description": "Microbial biofilm collected from diffuse flow using a hydrolic biosyringe at AEGIR hydrothermal vent field",
+    "organism": "biofilm metagenome",
+    "data_type": "Metagenomic assembly",
+    "submission_date": "2025/08/05 00:00",
+    "last_update": "",
+    "center_name": "University of Bergen",
+    "ncbi": {
+      "bioproject_uid": "1301812",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1301812"
+    }
+  },
+  "PRJNA1301809": {
+    "uid": "1301809",
+    "accession": "PRJNA1301809",
+    "title": "GS22-107-ROV569-BS1 Metagenome",
+    "description": "Microbial biofilm collected from hydrothermal chimney using a hydrolic biosyringe at AEGIR hydrothermal vent field",
+    "organism": "biofilm metagenome",
+    "data_type": "Metagenomic assembly",
+    "submission_date": "2025/08/05 00:00",
+    "last_update": "",
+    "center_name": "University of Bergen",
+    "ncbi": {
+      "bioproject_uid": "1301809",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1301809"
+    }
+  },
+  "PRJNA1301837": {
+    "uid": "1301837",
+    "accession": "PRJNA1301837",
+    "title": "17ROV21-Big Biojelly biofilm Metagenome",
+    "description": "Microbial mat (BigBio Jelly) collected from the Barite field at the Loki's Castle vent field",
+    "organism": "biofilm metagenome",
+    "data_type": "Metagenomic assembly",
+    "submission_date": "2025/08/05 00:00",
+    "last_update": "",
+    "center_name": "University of Bergen",
+    "ncbi": {
+      "bioproject_uid": "1301837",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1301837"
+    }
+  },
+  "PRJNA1301830": {
+    "uid": "1301830",
+    "accession": "PRJNA1301830",
+    "title": "GS21_106_ROV435A_BS-A biofilm",
+    "description": "Biofilm from a diffuse flow small chimney structure at Seven Sisters hydrothermal vent field",
+    "organism": "biofilm metagenome",
+    "data_type": "Metagenomic assembly",
+    "submission_date": "2025/08/05 00:00",
+    "last_update": "",
+    "center_name": "University of Bergen",
+    "ncbi": {
+      "bioproject_uid": "1301830",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1301830"
+    }
+  },
+  "PRJNA881934": {
+    "uid": "881934",
+    "accession": "PRJNA881934",
+    "title": "Hydrothermal vent metagenome - AEGIR hydrothermal vent field - GS20-ROV9-BS1 Metagenomic assembly",
+    "description": "Metagenome from a white biofilm collected from the AEGIR hydrothermal vent field, sample GS20-ROV9-BS1",
+    "organism": "hydrothermal vent metagenome",
+    "data_type": "Genome sequencing and assembly",
+    "submission_date": "2022/12/28 00:00",
+    "last_update": "",
+    "center_name": "University of Bergen",
+    "ncbi": {
+      "bioproject_uid": "881934",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/881934"
+    }
+  },
+  "PRJNA1301805": {
+    "uid": "1301805",
+    "accession": "PRJNA1301805",
+    "title": "15-GS21-ROV-106-ROV432 Metagenome",
+    "description": "Microbial mat (BigBio Jelly) collected from high temperature chimney at AEGIR hydrothermal vent field",
+    "organism": "biofilm metagenome",
+    "data_type": "Metagenomic assembly",
+    "submission_date": "2025/08/05 00:00",
+    "last_update": "",
+    "center_name": "University of Bergen",
+    "ncbi": {
+      "bioproject_uid": "1301805",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1301805"
+    }
+  },
+  "PRJNA1301797": {
+    "uid": "1301797",
+    "accession": "PRJNA1301797",
+    "title": "Hydrothermal vent metagenome - AEGIR hydrothermal vent field - GS20-ROV9-BS2 Metagenomic assembly Metagenome",
+    "description": "Metagenome from a white biofilm collected from the AEGIR hydrothermal vent field, sample GS20-ROV9-BS2",
+    "organism": "hydrothermal vent metagenome",
+    "data_type": "Metagenomic assembly",
+    "submission_date": "2025/08/05 00:00",
+    "last_update": "",
+    "center_name": "University of Bergen",
+    "ncbi": {
+      "bioproject_uid": "1301797",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1301797"
+    }
+  },
+  "PRJNA801110": {
+    "uid": "801110",
+    "accession": "PRJNA801110",
+    "title": "hydrothermal vent metagenome Metagenomic assembly",
+    "description": "Metagenome-assembled genomes from in situ enrichments in vent fields located on the Arctic Mid-Ocean Ridges",
+    "organism": "hydrothermal vent metagenome",
+    "data_type": "Genome sequencing and assembly",
+    "submission_date": "2022/09/28 00:00",
+    "last_update": "",
+    "center_name": "University of Bergen",
+    "ncbi": {
+      "bioproject_uid": "801110",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/801110"
+    }
+  },
+  "PRJNA1337107": {
+    "uid": "1337107",
+    "accession": "PRJNA1337107",
+    "title": "Impact of rumen microbiome sample handling and extraction procedures on downstream long-read sequencing",
+    "description": "The rumen microbiome is a complex microbial ecosystem central to ruminant nutrition and productivity. Long-read sequencing technologies, such as Oxford Nanopore, have greatly improved resolution of strain-level diversity and enabled assembly of near-complete genomes, but these benefits depend on the integrity and purity of input DNA, which can be affected by sample preservation and extraction methods. This study evaluated which DNA extraction protocols best maximize high-molecular-weight DNA recovery for long-read sequencing and whether freeze-thaw preservation biases read length, microbial composition, or the recovery of different taxa. We also used simulated datasets to assess how read length influences taxonomic classification accuracy. Rumen fluid samples from four lactating Holstein cows were preserved by flash-freezing or a single freeze-thaw cycle. DNA was extracted using four modified Zymo Quick-DNA HMW MagBead protocols (0BB, 3BB, DDZ, PREC) incorporating different lysis and purification strategies, then sequenced on Oxford Nanopore PromethION flow cells. Read length, yield, and microbial composition were analyzed using nonparametric statistics, while synthetic long-read datasets (400-7600 bp) generated with NanoSim evaluated classification accuracy with Kaiju. The precipitation method produced the highest DNA yields and maintained fragment integrity, whereas bead-based methods yielded less DNA due to high-molecular-weight DNA-selective binding. Flash-freezing preserved DNA quality better than freeze-thaw, resulting in longer reads and higher archaeal abundance. Read lengths were reduced in freeze-thawed samples for both Gram-positive and Gram-negative taxa, with Gram-negative bacteria showing the greatest loss. Simulations confirmed that longer reads improve taxonomic classification, underscoring the need to optimize upstream protocols for high-resolution rumen microbiome profiling.",
+    "organism": "",
+    "data_type": "Raw sequence reads",
+    "submission_date": "2025/10/01 00:00",
+    "last_update": "",
+    "center_name": "USDA",
+    "ncbi": {
+      "bioproject_uid": "1337107",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1337107"
+    }
   }
 }

@@ -19923,5 +19923,35 @@
       "bioproject_uid": "1337107",
       "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1337107"
     }
+  },
+  "PRJNA1429591": {
+    "uid": "1429591",
+    "accession": "PRJNA1429591",
+    "title": "Genetic diversity of bacterial endosymbionts of Dermacentor spp. ticks",
+    "description": "Hard ticks are ancient arachnid with unique physiology and evolution adaptability. Here we estimate the genetic diversity of bacterial endosymbionts of Dermacentor spp ticks collected on Eurasian territory stretches about 3,000 km from east to west. The locations have a large variations in landscape, climate, elevation and vegetation. We have assembled and study high quality endosymbiont genomes (predominantly rickettsiae) from individual ticks. To assemble genomes, we combine long-read Oxford Nanopore Technology (ONT) sequence and shotgun sequencing via the Illumina platform using 2x300 paired end reads.",
+    "organism": "",
+    "data_type": "Genome sequencing",
+    "submission_date": "2026/02/28 00:00",
+    "last_update": "",
+    "center_name": "N. F. Gamaleya Federal Research Center of Epidemiology and Microbiology, 123098 Moscow, Russia",
+    "ncbi": {
+      "bioproject_uid": "1429591",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1429591"
+    }
+  },
+  "PRJNA1067332": {
+    "uid": "1067332",
+    "accession": "PRJNA1067332",
+    "title": "Metagenomes from soil of Union Glacier (Antarctica)",
+    "description": "Sequencing and analysis of Union Glacier soil metagenomes",
+    "organism": "soil metagenome",
+    "data_type": "Genome sequencing and assembly",
+    "submission_date": "2024/03/27 00:00",
+    "last_update": "",
+    "center_name": "mBioClim",
+    "ncbi": {
+      "bioproject_uid": "1067332",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1067332"
+    }
   }
 }

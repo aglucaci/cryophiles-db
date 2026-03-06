@@ -19953,5 +19953,20 @@
       "bioproject_uid": "1067332",
       "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1067332"
     }
+  },
+  "PRJNA1081679": {
+    "uid": "1081679",
+    "accession": "PRJNA1081679",
+    "title": "Flower and leaf microbiome of alpine flowering plants Raw sequence reads",
+    "description": "We investigated 50 wild flowering plants representing 22 families across seven locations in Austria. Sampling sites encompassed varied soil types (carbonate/silicate) and altitudes (450-2760 m). Amplicon sequencing to characterize bacterial and fungal communities and quantitative PCR to assess microbial abundance was applied, and the influence of biotic and abiotic factors assessed. Our study revealed distinct bacterial and fungal communities on leaves and flowers, with higher diversity and richness on leaves (228 fungal and 91 bacterial ASVs) than on flowers (163 fungal and 55 bacterial ASVs). In addition, Gammaproteobacteria on flowers and Alphaproteobacteria on leaves suggests niche specialization for plant compartments. Location significantly shaped both community composition and fungal diversity on both plant parts. Notably, soil type influenced community composition but not diversity. Altitude was associated with increased fungal species diversity on leaves and flowers. Furthermore, significant effects of plant family identity emerged within a subset of seven families, impacting bacterial and fungal abundance, fungal Shannon diversity, and bacterial species richness, particularly on flowers.",
+    "organism": "plant metagenome",
+    "data_type": "Raw sequence reads",
+    "submission_date": "2024/02/28 00:00",
+    "last_update": "",
+    "center_name": "Leibniz Institute for Agricultural Engineering and Bioeconomy",
+    "ncbi": {
+      "bioproject_uid": "1081679",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1081679"
+    }
   }
 }

@@ -19968,5 +19968,20 @@
       "bioproject_uid": "1081679",
       "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1081679"
     }
+  },
+  "PRJNA1335874": {
+    "uid": "1335874",
+    "accession": "PRJNA1335874",
+    "title": "Soil bacteria 16s rRNA",
+    "description": "Soil bacteria 16s rRNA",
+    "organism": "",
+    "data_type": "Raw sequence reads",
+    "submission_date": "2025/09/29 00:00",
+    "last_update": "",
+    "center_name": "Northeast Agricultural University",
+    "ncbi": {
+      "bioproject_uid": "1335874",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1335874"
+    }
   }
 }

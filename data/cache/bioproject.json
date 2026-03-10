@@ -19983,5 +19983,20 @@
       "bioproject_uid": "1335874",
       "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1335874"
     }
+  },
+  "PRJNA1434106": {
+    "uid": "1434106",
+    "accession": "PRJNA1434106",
+    "title": "Amplicon analysis of enrichment cultures supplemented with laminarin",
+    "description": "To enrich for deep-sea PVC bacteria, we established enrichment cultures using a basal medium as a control and the basal medium supplemented with 3.0 g/L laminarin.",
+    "organism": "",
+    "data_type": "Raw sequence reads",
+    "submission_date": "2026/03/09 00:00",
+    "last_update": "",
+    "center_name": "Institute of oceanology",
+    "ncbi": {
+      "bioproject_uid": "1434106",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1434106"
+    }
   }
 }

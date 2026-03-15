@@ -20003,5 +20003,20 @@
     "accession": "PRJEB104465",
     "uid": "",
     "error": "uid_not_found"
+  },
+  "PRJNA1437299": {
+    "uid": "1437299",
+    "accession": "PRJNA1437299",
+    "title": "Microbial diversity in cold seep environments and the distribution of plastic-degrading bacteria",
+    "description": "Microbial degradation represents a promising remediation strategy for polyvinyl chloride (PVC) and polycarbonate (PC) microplastics, which have been widely detected in the Haima cold seeps. However, the diversities and distribution of PVC- and PC-degrading bacteria in cold seep environments remain poorly understood. Therefore, this study combined 1-year in situ incubation and 189-day indoor enrichment experiments to characterize the diversity of plastic-degrading bacteria in the Haima cold seeps. The results showed that the enriched communities could grow using PVC or PC films as the sole carbon source, and the plastic surfaces exhibited clear signs of biodegradation. Dietzia, Pseudarthrobacter, and Saccharopolyspora dominated the bacterial communities of both PVC and PC groups during enrichment. A total of 39 potential PVC-degrading ASVs and 36 potential PC-degrading ASVs were identified based on changes in abundance. Among these ASVs, Dietzia and Bacillus appeared to play crucial roles in degrading both plastics. Additionally, the identified degraders were widely distributed in cold seep environments, with a higher abundance in seawater than in sediments. Correlation analysis suggested that PC plastic-degrading bacteria preferred the high-nutrient sediment environment over that favored by PVC degraders. This study revealed the diversity and distribution characteristics of plastic-degrading bacteria in cold seep environments.",
+    "organism": "",
+    "data_type": "Raw sequence reads",
+    "submission_date": "2026/03/14 00:00",
+    "last_update": "",
+    "center_name": "Guangdong University of Technology",
+    "ncbi": {
+      "bioproject_uid": "1437299",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1437299"
+    }
   }
 }

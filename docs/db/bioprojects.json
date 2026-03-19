@@ -20018,5 +20018,20 @@
       "bioproject_uid": "1437299",
       "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1437299"
     }
+  },
+  "PRJNA1438728": {
+    "uid": "1438728",
+    "accession": "PRJNA1438728",
+    "title": "Upper Silver Bow Creek Sediment Metagenomes",
+    "description": "Metagenomes derived from sediments collected from Upper Silver Bow Creek near Butte, MT.",
+    "organism": "",
+    "data_type": "Raw sequence reads",
+    "submission_date": "2026/03/17 00:00",
+    "last_update": "",
+    "center_name": "Montana Technological University",
+    "ncbi": {
+      "bioproject_uid": "1438728",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1438728"
+    }
   }
 }

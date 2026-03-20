@@ -20033,5 +20033,20 @@
       "bioproject_uid": "1438728",
       "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1438728"
     }
+  },
+  "PRJNA1438373": {
+    "uid": "1438373",
+    "accession": "PRJNA1438373",
+    "title": "High-throughput sequencing of Antarctic soil bacteria",
+    "description": "Climate-Driven Succession Reshapes Soil Bacterial Biogeography and Stability in a Warming Antarctic",
+    "organism": "",
+    "data_type": "Raw sequence reads",
+    "submission_date": "2026/03/16 00:00",
+    "last_update": "",
+    "center_name": "Lanzhou University",
+    "ncbi": {
+      "bioproject_uid": "1438373",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1438373"
+    }
   }
 }

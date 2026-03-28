@@ -20053,5 +20053,20 @@
     "accession": "PRJNA1441095",
     "uid": "",
     "error": "uid_not_found"
+  },
+  "PRJNA1444088": {
+    "uid": "1444088",
+    "accession": "PRJNA1444088",
+    "title": "soil metagenome",
+    "description": "Changes in the rhizosphere metagenome following the addition of synthetic microbial communities under cold and drought stress",
+    "organism": "",
+    "data_type": "Raw sequence reads",
+    "submission_date": "2026/03/27 00:00",
+    "last_update": "",
+    "center_name": "Northwest A&F University",
+    "ncbi": {
+      "bioproject_uid": "1444088",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1444088"
+    }
   }
 }

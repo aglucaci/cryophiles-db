@@ -20068,5 +20068,25 @@
       "bioproject_uid": "1444088",
       "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1444088"
     }
+  },
+  "PRJEB85165": {
+    "accession": "PRJEB85165",
+    "uid": "",
+    "error": "uid_not_found"
+  },
+  "PRJNA1444909": {
+    "uid": "1444909",
+    "accession": "PRJNA1444909",
+    "title": "Sea Ice as a Source of Ice Nucleating Particles: Biogenic Origin and Atmospheric Relevance",
+    "description": "Arctic clouds strongly modulate surface energy balance, yet the seasonal sources of warm-temperature ice-nucleating particles remain poorly constrained. Here we show that first-year sea ice is a concentrated reservoir of highly active, predominantly particulate INP that can be efficiently transferred to the atmosphere during spring melt. Across Greenland sea-ice cores collected in 2016-2023, INP concentrations active at -10 degrees celcius were typically 10-100-fold higher than in under-ice seawater. Laboratory cold-finger freezing experiments and in-situ nilas formation experiments showed no preferential enrichment of INP from seawater into growing ice, indicating that incorporation is largely stochastic. In contrast, sea-ice INP activity co-varied with specific microbial taxa, consistent with in-ice production and retention within particulate or aggregated material. Enrichment and cultivation experiments showed a loss of ice-nucleating activity under phototrophic growth, and isolated Melosira cultures and filtrates were inactive, implicating heterotrophic microbial consortia rather than algae as the dominant source. Sea-spray simulations demonstrated strong aerosolization of sea-ice-derived INP, yielding sea-salt-normalized INP levels comparable to peak summer Arctic seawater emissions. These results identify seasonal sea ice as a previously overlooked springtime INP source with implications for mixed-phase cloud glaciation in a rapidly changing Arctic.",
+    "organism": "",
+    "data_type": "Raw sequence reads",
+    "submission_date": "2026/03/30 00:00",
+    "last_update": "",
+    "center_name": "Aarhus University",
+    "ncbi": {
+      "bioproject_uid": "1444909",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1444909"
+    }
   }
 }

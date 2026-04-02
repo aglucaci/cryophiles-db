@@ -20088,5 +20088,35 @@
       "bioproject_uid": "1444909",
       "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1444909"
     }
+  },
+  "PRJNA1344266": {
+    "uid": "1344266",
+    "accession": "PRJNA1344266",
+    "title": "Novel species of Yersinia isolated from Belgica antarctica",
+    "description": "Novel species of Yersinia isolated from Belgica antarctica",
+    "organism": "",
+    "data_type": "Genome sequencing",
+    "submission_date": "2025/10/10 00:00",
+    "last_update": "",
+    "center_name": "Institut Pasteur",
+    "ncbi": {
+      "bioproject_uid": "1344266",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1344266"
+    }
+  },
+  "PRJNA1236918": {
+    "uid": "1236918",
+    "accession": "PRJNA1236918",
+    "title": "Alpine ectomycorrhizal plants as potential inoculum reservoirs for advancing conifers in southern British Columbia",
+    "description": "Alpine ectomycorrhizal plants may harbor pools of ectomycorrhizal fungal (EMF) inoculum compatible with advancing conifers. For this exploratory project, we sequenced the full fungal ITS region of ectomycorrhizas collected from root systems of 3 alpine hosts (Dryas octopetala, Bistorta vivipara, and Salix petrophila) and 1 conifer (whitebark pine, Pinus albicaulis) and associated bulk soil samples on a PacBio Sequel II. We investigated overlap in the EMF taxa on the roots of the alpine hosts and whitebark pine. We also compared the number of whitebark pine-compatible EMF taxa in soils surrounding dryas mats with bare, background soils (no ectomycorrhizal hosts present at the sampling site), and explored whether the number of whitebark pine-compatible EMF in soils varies with distance from the treeline.",
+    "organism": "",
+    "data_type": "Raw sequence reads",
+    "submission_date": "2025/03/17 00:00",
+    "last_update": "",
+    "center_name": "University of British Columbia - Okanagan",
+    "ncbi": {
+      "bioproject_uid": "1236918",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1236918"
+    }
   }
 }

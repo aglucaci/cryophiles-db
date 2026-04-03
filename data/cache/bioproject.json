@@ -20118,5 +20118,20 @@
       "bioproject_uid": "1236918",
       "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1236918"
     }
+  },
+  "PRJNA1446209": {
+    "uid": "1446209",
+    "accession": "PRJNA1446209",
+    "title": "Thermus scotoductus strain:AK-1 Genome sequencing",
+    "description": "Thermus scotoductus AK-1 was isolated from an Arctic hydrothermal site in Alaska, where the in situ temperature ranged from 74.8 to 75.8 Centigrade. The complete genome was sequenced using the PacBio Revio HiFi platform, revealing a circular genome of 2.21 Mbp in length.",
+    "organism": "Thermus scotoductus",
+    "data_type": "Genome sequencing",
+    "submission_date": "2026/04/01 00:00",
+    "last_update": "",
+    "center_name": "Korea Polar Research Institute",
+    "ncbi": {
+      "bioproject_uid": "1446209",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1446209"
+    }
   }
 }

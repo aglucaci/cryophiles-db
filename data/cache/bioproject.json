@@ -20133,5 +20133,20 @@
       "bioproject_uid": "1446209",
       "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1446209"
     }
+  },
+  "PRJNA1399112": {
+    "uid": "1399112",
+    "accession": "PRJNA1399112",
+    "title": "Bacterial Communities Across Freshwater Ecosystems of the Zhongar Alatau Mountains, Kazakhstan",
+    "description": "This project encompasses 16S rRNA amplicon sequencing data generated from 21 freshwater samples collected across five ecosystem types in the Zhongar Alatau Mountains, southeastern Kazakhstan. The study investigates bacterial diversity, community structure, and environmental drivers across glacier, glacial river, river, lake, and sedimentary lake habitats. These data support ecological assessments of high-altitude freshwater systems and contribute to baseline microbial biogeography of Central Asia.",
+    "organism": "",
+    "data_type": "Raw sequence reads",
+    "submission_date": "2026/01/07 00:00",
+    "last_update": "",
+    "center_name": "National Agricultural and Food Centre",
+    "ncbi": {
+      "bioproject_uid": "1399112",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1399112"
+    }
   }
 }

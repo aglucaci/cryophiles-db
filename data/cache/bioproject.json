@@ -20148,5 +20148,20 @@
       "bioproject_uid": "1399112",
       "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1399112"
     }
+  },
+  "PRJNA1416027": {
+    "uid": "1416027",
+    "accession": "PRJNA1416027",
+    "title": "V3-V4 rRNA sequencing from the Antarctic plastipshere and surrounding environment",
+    "description": "The goals of this sequencing experiment were to complement resistome and mobilome analysis and see whether the bacterial diversity could explain either",
+    "organism": "",
+    "data_type": "Raw sequence reads",
+    "submission_date": "2026/01/29 00:00",
+    "last_update": "",
+    "center_name": "Universidad Autonoma de Madrid, Facultad de Ciencias",
+    "ncbi": {
+      "bioproject_uid": "1416027",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1416027"
+    }
   }
 }

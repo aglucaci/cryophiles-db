@@ -20163,5 +20163,20 @@
       "bioproject_uid": "1416027",
       "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1416027"
     }
+  },
+  "PRJNA1450358": {
+    "uid": "1450358",
+    "accession": "PRJNA1450358",
+    "title": "Biohydrogen Producing Potential of Arctic Ice and Water: A Metagenomic Insight",
+    "description": "Cryospheric ecosystems in the high Arctic harbor largely unexplored microbiomes with significant biotechnological potential. The present study evaluates the biohydrogen production capabilities of the indigenous microbiome of Ny-Alesund, Svalbard, using glacial ice and surface water samples. Dark fermentation batch assays were performed at 4C and 20C with 2-bromoethanesulfonate (BES), a methanogenic inhibitor, to track the succession of metabolic and taxonomic diversity. Metagenomic and functional analyses revealed that under 20C and BES conditions, psychrotolerant microbial communities maximize biohydrogen yield to 85 percent of the total biogas produced, with an acetate-dominant fermentation pathway, as inferred from volatile fatty acid (VFA) analysis. Specifically, the functional gene profiles suggest that at 4C, the nitrogenase-based pathway is used to produce hydrogen, which switches to the efficient hydrogenase pathway at 20C. Kinetic modelling using the Modified Gompertz equation, along with Q10 temperature-sensitivity indices, demonstrated a very high latent catalytic potential in these cold-adapted microbiomes. This study indicates that Arctic microbiomes are highly elastic thermodynamically and could serve as highly efficient, manipulatable biocatalysts for the environmental recovery of bioenergy through engineered low-temperature systems.",
+    "organism": "",
+    "data_type": "Raw sequence reads",
+    "submission_date": "2026/04/08 00:00",
+    "last_update": "",
+    "center_name": "Birla Institute of Technology and Science (BITS) Pilani K.K.Birla Goa Campus",
+    "ncbi": {
+      "bioproject_uid": "1450358",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1450358"
+    }
   }
 }

@@ -20178,5 +20178,20 @@
       "bioproject_uid": "1450358",
       "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1450358"
     }
+  },
+  "PRJNA1454311": {
+    "uid": "1454311",
+    "accession": "PRJNA1454311",
+    "title": "Anthropogenic Accessibility Drives Bacterial Community Structure and Biochemical Specialization in Schirmacher Hills Lakes, Est Antarctica",
+    "description": "We try to explain the anthropogenic activities drives bacterial community structure in Schirmacher Hills Lakes, East Antarctica",
+    "organism": "",
+    "data_type": "Raw sequence reads",
+    "submission_date": "2026/04/16 00:00",
+    "last_update": "",
+    "center_name": "National Institute of Oceanography",
+    "ncbi": {
+      "bioproject_uid": "1454311",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1454311"
+    }
   }
 }

@@ -20193,5 +20193,55 @@
       "bioproject_uid": "1454311",
       "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1454311"
     }
+  },
+  "PRJNA1454863": {
+    "uid": "1454863",
+    "accession": "PRJNA1454863",
+    "title": "Comparative genomics of an Antarctic sea-ice diatom (Nitzschia sp.) provides insights into potential polar adaptation",
+    "description": "This project uses comparative genomics to explore the possible strategies employed by Nitzschia sp. (an Antarctic sea ice diatom) to adapt to the sea ice environment.",
+    "organism": "",
+    "data_type": "Raw sequence reads",
+    "submission_date": "2026/04/17 00:00",
+    "last_update": "",
+    "center_name": "University of Tasmania",
+    "ncbi": {
+      "bioproject_uid": "1454863",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1454863"
+    }
+  },
+  "PRJEB111633": {
+    "accession": "PRJEB111633",
+    "uid": "",
+    "error": "uid_not_found"
+  },
+  "PRJEB109934": {
+    "uid": "1444375",
+    "accession": "PRJEB109934",
+    "title": "Vegetation extent shapes microbial community structure and metabolic potential in European alpine permafrost-affected soils",
+    "description": "Alpine permafrost-affected soils—particularly in the European Alps—remain poorly understood despite rapid warming and projected vegetation shifts at high elevations. We investigated how vegetation cover extent and physicochemical soil properties structure microbial communities across ten high-altitude alpine permafrost sites. Soil parameters (pH, soil water content, temperature, and total C and N contents) varied significantly between sites and revealed pH and C:N ratio as key drivers, that were modulated by vegetation cover extent, highlighting its indirect role in shaping soil environments.  Microbial community composition differed significantly across sites, and functional profiles mirrored taxonomic patterns, indicating strong coupling between community structure and functional potential, without functional redundancy. Microbial abundance increased with vegetation cover extent, whereas taxonomic and functional diversity plateaued at intermediate vegetation cover extent, suggesting that vegetation primarily enhances microbial abundance rather than diversity. Metagenome-resolved analyses revealed a shift from generalist-dominated communities in barren soils to increased prevalence of specialist taxa in vegetated soils. Functional gene abundance, particularly for carbon cycling, was higher in vegetated soils, while N and S cycling potentials were associated with soil temperature and moisture. A soil microcosm experiment measuring ex situ CO₂ and CH₄ fluxes from summer soil, identified vegetated soils as modest CO₂ sources. Vegetated soils exhibited lower, pH and C:N ratio, shaping a more abundant microbial community with more specialist members and higher C cycling potential. Overall, our findings indicate that alpine greening reshapes microbial communities via vegetation-mediated changes in soil properties, with implications for biogeochemical cycling and C emissions under climate warming.",
+    "organism": "",
+    "data_type": "Other",
+    "submission_date": "2026/03/28 00:00",
+    "last_update": "",
+    "center_name": "Ecole polytechnique federale de Lausanne",
+    "ncbi": {
+      "bioproject_uid": "1444375",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1444375"
+    }
+  },
+  "PRJDB40746": {
+    "uid": "1445684",
+    "accession": "PRJDB40746",
+    "title": "Moritella sagamensis sp. nov., a psychrophilic biosurfactant-producing bacterium isolated from the mesopelagic water sample",
+    "description": "Two novel strains of the genus Moritella, i.e., F1 and F3, were isolated from a 500-m depth in the Sagami Trough, Japan. Our analyses revealed that these strains share the same 16S rRNA gene sequence, and in a BlastN analysis the sequence showed 99.66% similarity with that of the most closely related strain M. marina ATCC 15381. Based on the results of our phylogenetic, physiological, and phenotypic analyses, we propose a novel species to accommodate strains F1 and F3: Moritella sagamensis sp. nov. The type strain of Moritella sagamensis is F1.",
+    "organism": "Moritella sp. F1",
+    "data_type": "Genome sequencing",
+    "submission_date": "2026/03/30 00:00",
+    "last_update": "",
+    "center_name": "Ocean sciences, Tokyo university of marine science and technology",
+    "ncbi": {
+      "bioproject_uid": "1445684",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1445684"
+    }
   }
 }

@@ -20243,5 +20243,35 @@
       "bioproject_uid": "1445684",
       "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1445684"
     }
+  },
+  "PRJNA1455205": {
+    "uid": "1455205",
+    "accession": "PRJNA1455205",
+    "title": "Metagenomic and Thermodynamic Mapping of Ny-Alesund, Arctic Microbiota: Harnessing Low Temperature Biohydrogen Production",
+    "description": "Biohydrogen produced by psychrophilic dark fermentation can have lower energy requirements than conventional methods. In this study, kinetic, thermodynamic, and functional metagenomic analyses were conducted to determine the profiles of microbial consortia from Ny-Alesund, Svalbard, incubated at 4C and 20C in the presence or absence of the methanogenic inhibitor 2-bromoethanesulfonate (BES). Biogas potential values derived from volumetric analyses indicated pure biohydrogen (> 95.6%) was produced, while also confirming the presence of these consortia adapted to operate with lag phases of 4 - 7 days and exhibiting temperature sensitivity coefficients (Q10) < 2.0 at 4C. While thermodynamic analysis indicated that methanogenic inhibition resulted in loss of syntrophic electron transfer and higher activation energy (Ea), both anaerobically fermentative acetic and butyric acid pathways remained exergonic. Community succession was observed in functional metagenomic analyses of fermentative genera (Clostridium, Enterobacter, and Klebsiella), driven by the pyruvate:ferredoxin oxidoreductase (PFOR) and formate hydrogenlyase (FHL) pathways. Genetic reallocating occurred toward cold-shock defense (cspA, dnaK) at all incubation temperatures and showed the use of either electron bifurcating complexes (rnf, ech) or other mechanisms to overcome thermodynamic limits. Overall, the biochemical characteristics of native Arctic consortia provide evidence of their ability to serve as viable biocatalysts for biohydrogen production at low temperatures.",
+    "organism": "",
+    "data_type": "Raw sequence reads",
+    "submission_date": "2026/04/19 00:00",
+    "last_update": "",
+    "center_name": "Birla Institute of Technology and Science (BITS) Pilani K.K.Birla Goa Campus",
+    "ncbi": {
+      "bioproject_uid": "1455205",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1455205"
+    }
+  },
+  "PRJNA1102269": {
+    "uid": "1102269",
+    "accession": "PRJNA1102269",
+    "title": "Complete genome sequence of three bacteria isolated from the Arctic Sea",
+    "description": "Complete genome sequence of three bacteria isolated from the Arctic Sea",
+    "organism": "",
+    "data_type": "Genome sequencing",
+    "submission_date": "2024/04/19 00:00",
+    "last_update": "",
+    "center_name": "Second Institute of Oceanography, Ministry of Natural Resources",
+    "ncbi": {
+      "bioproject_uid": "1102269",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1102269"
+    }
   }
 }

@@ -20273,5 +20273,25 @@
       "bioproject_uid": "1102269",
       "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/1102269"
     }
+  },
+  "PRJNA1456287": {
+    "accession": "PRJNA1456287",
+    "uid": "",
+    "error": "uid_not_found"
+  },
+  "PRJNA688069": {
+    "uid": "688069",
+    "accession": "PRJNA688069",
+    "title": "S. enterica Intracloacal challenge chicken cecum microbiome Raw sequence reads",
+    "description": "Characterizing Antimicrobial Resistance in Poultry Production Environments",
+    "organism": "chicken gut metagenome",
+    "data_type": "Raw sequence reads",
+    "submission_date": "2020/12/27 00:00",
+    "last_update": "",
+    "center_name": "Phase Genomics",
+    "ncbi": {
+      "bioproject_uid": "688069",
+      "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/688069"
+    }
   }
 }

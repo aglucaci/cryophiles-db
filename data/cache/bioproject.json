@@ -20293,5 +20293,10 @@
       "bioproject_uid": "688069",
       "bioproject_url": "https://www.ncbi.nlm.nih.gov/bioproject/688069"
     }
+  },
+  "PRJNA1421049": {
+    "accession": "PRJNA1421049",
+    "uid": "",
+    "error": "uid_not_found"
   }
 }
